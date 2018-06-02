@@ -1,0 +1,4 @@
+*.tsv
+*.csv
+
+xpdf-tools-linux-4.00/*
